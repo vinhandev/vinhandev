@@ -1,4 +1,3 @@
-[![MasterHead](https://thumbs.gfycat.com/BestMeagerHoki-size_restricted.gif)](https://portfolio-vinhandev.vercel.app)
 <h1 align="center">Hi 👋, I'm Vi Nhan</h1>
 <h3 align="center">I am Mobile Developer 📲 for 1.5 years. My core language is React Native</h3>
 
