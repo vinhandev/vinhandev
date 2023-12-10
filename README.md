@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vi Nhan</h1>
-<h3 align="center">I am Mobile Developer 📲 for 1.5 years. My core language is React Native</h3>
+<h1 align="center">Hi, I'm Arthur</h1>
+<h3 align="center">I am a Mobile Developer. My core language is React Native</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vinhandev.vercel.app/](https://portfolio-vinhandev.vercel.app/)
