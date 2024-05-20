@@ -5,7 +5,7 @@ As a **Mobile Software Engineer** specializing in **React Native**, I very passi
 #### 🚀 About Me
 - 🔭 Currently working as React Native Developer for 3 years.
 - 🌱 Continuously learning and staying up-to-date with the latest in mobile technology.
-- 🎓 Degree in **Software Engineering** from the [FPT University](https://en.wikipedia.org/wiki/FPT_University) (graduated in 2020)
+- 🎓 Degree in **Software Engineering** from the [FPT University](https://en.wikipedia.org/wiki/FPT_University) (graduated in 2022)
 - 📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vinhandev/) or [email](mailto:vinhan.dev@gmail.com?subject=Reach%20Out%3A%20%5BSubject%5D&body=I'm%20reaching%20out%20via%20Github%20Link...%0A-----%0A%0A%5BYour%20body%20here...%5D).
 - 🔮 Expanding my skill set by learning **SwiftUI** and **JetPack**.
 
