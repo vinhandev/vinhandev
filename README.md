@@ -1,2 +1,6 @@
-<h1 align="center">Hi, I'm Nhan</h1>
-<h3 align="center">I am a Mobile Developer. My core language is React Native</h3>
+## Hi 👋, I'm Nhan Tran
+
+#### 👾 About Me
+- ✨ &nbsp;I am a Mobile Developer & React Native Developer for 3 years.
+- ✍️ &nbsp;I write blogs [sometimes](https://medium.com/@vinhan.dev)
+- 💻 I am very passion at creating professional React Native applications.
